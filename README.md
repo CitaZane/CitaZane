@@ -4,9 +4,9 @@
 
 Trying to contain my existence in a couple of sentences is quite hard that's exactly the reason why I am wasting space and time with this unnecessary long introduction. So here we go - with an academic background in landscape architecture, I am looking forward to impacting our so beloved virtual landscape. Let's hope for the best!
 
-###Some stats, because you know, why not!
+### Some stats, because you know, why not!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CitaZane&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CitaZane&show_icons=true&theme=darkicon_color=e4e6d9)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitaZane&theme=dark&show_icons=true&icon_color=e4e6d9)](https://github.com/anuraghazra/github-readme-stats)
 
