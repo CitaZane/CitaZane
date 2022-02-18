@@ -6,16 +6,9 @@ Trying to contain my existence in a couple of sentences is quite hard that's exa
 
 ###Some stats, because you know, why not!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CitaZane&show_icons=true&theme=solarized-light" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CitaZane&theme=solarized-light" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CitaZane&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CitaZane&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitaZane&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CitaZane&theme=dark&show_icons=true&icon_color=e4e6d9)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning in Kood/Jõhvi - a school, based on independent and project-based learning, following the 01 Education System curriculum. 
 - 📫 How to reach me: email - zanekrumina2@gmail.com or social media platforms 
