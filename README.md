@@ -1,4 +1,4 @@
-![Just dipping my toes in the world of Software Development](https://github.com/CitaZane/CitaZane/blob/main/cover.png)
+![Just dipping my toes in the world of Software Development](https://github.com/CitaZane/CitaZane/blob/main/cover_img.png)
 ### Hi there 👋, my name is Zane
 #### Just dipping my toes in the world of Software Development
 
