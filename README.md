@@ -6,7 +6,6 @@ Trying to contain my existence in a couple of sentences is quite hard that's exa
 
 - 🌱 I’m currently learning in Kood/Jõhvi - a school, based on independent and project-based learning, following the 01 Education System curriculum. 
 - 📫 How to reach me: email - zanekrumina2@gmail.com or social media platforms 
-- 
 ### Some stats, because you know, why not!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -15,6 +14,8 @@ Trying to contain my existence in a couple of sentences is quite hard that's exa
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CitaZane&theme=dark&layout=compact&card_width=445&border_color=d4d6ca" />
 </a>
+
+<a href="https://app.daily.dev/CitaZane"><img src="https://api.daily.dev/devcards/5f3b544515b344a381628876e72ce06d.png?r=sau" width="400" alt="Zane Krūmiņa's Dev Card"/></a>
 
 <a href="https://app.daily.dev/CitaZane"><img src="https://github.com/CitaZane/CitaZane/blob/main/devcard.svg" width="400" alt="Zane's Dev Card"/></a>
 
