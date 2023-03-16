@@ -8,14 +8,6 @@ Trying to contain my existence in a couple of sentences is quite hard that's exa
 - 📫 How to reach me: email - zanekrumina2@gmail.com or social media platforms 
 ### Some stats, because you know, why not!
 
-  <a href="https://app.daily.dev/CitaZane" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/5f3b544515b344a381628876e72ce06d.png?r=sau"
-    />
-  </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CitaZane&show_icons=true&theme=dark&icon_color=7e8343&border_color=d4d6ca" />
 </a>
@@ -23,9 +15,6 @@ Trying to contain my existence in a couple of sentences is quite hard that's exa
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CitaZane&theme=dark&layout=compact&card_width=445&border_color=d4d6ca" />
 </a>
 
-<!-- <a href="https://app.daily.dev/CitaZane"><img src="https://api.daily.dev/devcards/5f3b544515b344a381628876e72ce06d.png?r=sau" width="400" alt="Zane Krūmiņa's Dev Card"/></a> -->
-
-<!-- <a href="https://app.daily.dev/CitaZane"><img src="https://github.com/CitaZane/CitaZane/blob/main/devcard.svg" width="400" alt="Zane's Dev Card"/></a> -->
 
 #### And some socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zane-krumina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cita_zane/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/zanekrmia)  
