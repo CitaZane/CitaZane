@@ -15,6 +15,5 @@ Trying to contain my existence in a couple of sentences is quite hard that's exa
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CitaZane&theme=dark&layout=compact&card_width=445&border_color=d4d6ca" />
 </a>
 
-
 #### And some socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zane-krumina/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/cita_zane/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' height='40'>](https://www.behance.net/zanekrmia)  
